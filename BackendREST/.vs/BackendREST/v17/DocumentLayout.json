@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\depositocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\depositocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\tipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\tipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\tipofondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\tipofondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\gastoencabezado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\gastoencabezado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\gastodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\gastodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\fondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\fondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\models\\deposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:models\\deposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\fondocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\fondocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\gastodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\gastodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\gastoencabezadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\gastoencabezadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\tipofondocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\tipofondocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\tipogastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\tipogastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|c:\\users\\usuario\\3d objects\\backendrest\\backendrest\\backendrest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90D56B56-1F0C-4D1B-BFBD-52A0A857F08C}|BackendREST.csproj|solutionrelative:backendrest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:08:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:11:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:10:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:18:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepositoController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\DepositoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepositoController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\DepositoController.cs",
+              "RelativeToolTip": "Controllers\\DepositoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:07:45.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T06:17:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\TipoGasto.cs",
+              "RelativeDocumentMoniker": "Models\\TipoGasto.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\TipoGasto.cs",
+              "RelativeToolTip": "Models\\TipoGasto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:45:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoFondo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\TipoFondo.cs",
+              "RelativeDocumentMoniker": "Models\\TipoFondo.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\TipoFondo.cs",
+              "RelativeToolTip": "Models\\TipoFondo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:46:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "Models\\Presupuesto.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Presupuesto.cs",
+              "RelativeToolTip": "Models\\Presupuesto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:33:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:10:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:09:31.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gastoencabezado.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Gastoencabezado.cs",
+              "RelativeDocumentMoniker": "Models\\Gastoencabezado.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Gastoencabezado.cs",
+              "RelativeToolTip": "Models\\Gastoencabezado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:31:42.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GastoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\GastoDetalle.cs",
+              "RelativeDocumentMoniker": "Models\\GastoDetalle.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\GastoDetalle.cs",
+              "RelativeToolTip": "Models\\GastoDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:33:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fondo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Fondo.cs",
+              "RelativeDocumentMoniker": "Models\\Fondo.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Fondo.cs",
+              "RelativeToolTip": "Models\\Fondo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:47:24.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Deposito.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Deposito.cs",
+              "RelativeDocumentMoniker": "Models\\Deposito.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Models\\Deposito.cs",
+              "RelativeToolTip": "Models\\Deposito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:57:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FondoController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\FondoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FondoController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\FondoController.cs",
+              "RelativeToolTip": "Controllers\\FondoController.cs",
+              "ViewState": "AQIAABsBAAAAAAAAAAAAAKsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:36:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GastoDetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\GastoDetalleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GastoDetalleController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\GastoDetalleController.cs",
+              "RelativeToolTip": "Controllers\\GastoDetalleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:39:14.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GastoencabezadoController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\GastoencabezadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GastoencabezadoController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\GastoencabezadoController.cs",
+              "RelativeToolTip": "Controllers\\GastoencabezadoController.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:32:34.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PresupuestoController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\PresupuestoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PresupuestoController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\PresupuestoController.cs",
+              "RelativeToolTip": "Controllers\\PresupuestoController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:38:36.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecureController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "Controllers\\SecureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:37:18.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TipoFondoController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\TipoFondoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoFondoController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\TipoFondoController.cs",
+              "RelativeToolTip": "Controllers\\TipoFondoController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAOAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:48:08.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TipoGastoController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\TipoGastoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoGastoController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\TipoGastoController.cs",
+              "RelativeToolTip": "Controllers\\TipoGastoController.cs",
+              "ViewState": "AQIAACgBAAAAAAAAAAAgwEUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:54:08.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:05:20.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:14:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BackendREST.csproj",
+              "DocumentMoniker": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\BackendREST.csproj",
+              "RelativeDocumentMoniker": "BackendREST.csproj",
+              "ToolTip": "C:\\Users\\usuario\\3D Objects\\BACKENDREST\\BackendREST\\BackendREST.csproj",
+              "RelativeToolTip": "BackendREST.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T05:48:26.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

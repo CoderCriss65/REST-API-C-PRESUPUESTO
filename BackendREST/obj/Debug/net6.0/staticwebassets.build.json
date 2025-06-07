@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kiwZCbDMk0JuUIy6KInuvkTHHfOLNcXPhg4Z6sLgSQI=",
+  "Source": "BackendREST",
+  "BasePath": "_content/BackendREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
